@@ -1,2 +1,0 @@
-# probable-barnacle
-Personal web
